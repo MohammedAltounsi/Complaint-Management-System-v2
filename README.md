@@ -57,7 +57,7 @@ More in [`screenshots/`](screenshots): every screen in light and dark mode, on a
 - **Complaint page** shows the stage (new, in progress, closed), the next step for you, the log, and the customer and product. On a phone the actions sit in a bar at the bottom.
 - **Compensation** uses the same table as the complaints list.
 - **Reports** follow the layout of Salla's reports page: choose the period and the report type, compare with the previous period, and get an alert when 3 or more complaints point at the same production batch.
-- **Dark mode** uses the Tailwind Zinc greys.
+- **Dark mode** uses Linear's near-black greys with a soft red accent.
 
 ## Features
 
